@@ -5,10 +5,10 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Top Langs" height="150px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotinkasra&layout=compact&show_icons=true" />
+  <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotinkasra&layout=compact&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="github stats" height="150px" align="left" src="https://github-readme-stats.vercel.app/api?username=dotinkasra&show_icons=ture&hide=stars" />
+  <img alt="github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=dotinkasra&show_icons=ture&hide=stars" />
 </a>
 
 
