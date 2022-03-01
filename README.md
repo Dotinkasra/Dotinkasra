@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<p align="left"> 
+  <a href="http://twitter.com/acmastercard">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
+  </a>
+</p>
 <!--
 **Dotinkasra/Dotinkasra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
